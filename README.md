@@ -7,7 +7,11 @@ Was a bit too lazy to add a try-catch for invalid ID's, but it does check to mak
 Commands are solo, duos, and squads
 
 To use, you will need a file named auth.json, formatted as such:
+
 {
+
   "token": "(bot token goes here)",
+  
   "prefix": "$" (or desired prefix within the quotes)
+  
 }
